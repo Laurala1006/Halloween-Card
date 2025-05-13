@@ -30,3 +30,7 @@ Button icons are Halloween-themed and neatly framed with orange stroke borders f
 ● Smooth Animations:
 
 Leveraging withAnimation and .easeInOut to achieve seamless transitions and engaging motion effects.
+
+● Interface Overview:  
+<img width="394" alt="image" src="https://github.com/user-attachments/assets/33d6c9ee-b3c0-4ed2-89c1-ba48e5682594" />
+
